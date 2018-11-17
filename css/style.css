@@ -247,7 +247,13 @@ header .intro-text .intro-heading {
 /*--------------------
 4.1. About
 --------------------*/
-
+.profilepic{
+    
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    
+}
 .mz-module-about h3 {
     font-weight: 500;
     font-size: 17px;
